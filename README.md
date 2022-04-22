@@ -3,7 +3,7 @@
 </div>
 
 
-👋 Hey there! It's Sarah, awesome to meet you!
+😃 Hey there! It's Sarah, awesome to meet you!
 ⚙️ I’m a software engineer contributing to the frontend and backend of web applications -
 💫 on a mission building phenomenal digital experiences that enhance the lives of others.
 🔍 I’m deeply interested in blockchain and machine learning.
