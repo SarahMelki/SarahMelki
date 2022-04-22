@@ -3,14 +3,13 @@
 </div>
 
 
-- 👋 Hey there! I’m @SarahMelki
-- ⚙️ I’m a software engineer contributing to the frontend and backend of web applications.
-- 💫 I'm on a mission to build phenomenal digital experiences that enhance the lives of others.
-- 👀 I’m deeply interested in machine learning and blockchain.
-- 👩🏻‍💻 I’m currently working on a new ecommerce web app.
-- ⚡️  In my free time, I love to solve coding challenges.
-- 🧩 Fun Facts: I'm a professional pianist, occasional bassist, 3D modeler, photographer & translator.
-- 📫 You can reach me here -> sarahmelki.dev@gmail.com
+👋 Hey there! It's Sarah, awesome to meet you!
+⚙️ I’m a software engineer contributing to the frontend and backend of web applications -
+💫 on a mission building phenomenal digital experiences that enhance the lives of others.
+🔍 I’m deeply interested in blockchain and machine learning.
+⚡️  In my free time, I love to solve coding challenges.
+🧩 Other Fun Facts: I'm a professional pianist, occasional bassist, 3D modeler, photographer & translator.
+📫 Feel free to reach out -> sarahmelki.dev@gmail.com
 
 <!---
 SarahMelki/SarahMelki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
