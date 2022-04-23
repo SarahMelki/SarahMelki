@@ -19,7 +19,7 @@
 🔍 I’m deeply interested in blockchain and machine learning.
 ⚡️  In my free time, I love to solve coding challenges.
 🧩 Other Fun Facts: I'm a professional pianist, occasional bassist, 3D modeler, & photographer.
-📫 Feel free to reach out -> sarahmelki.dev@gmail.com
+
 </div>
 
 
