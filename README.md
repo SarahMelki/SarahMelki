@@ -15,7 +15,7 @@
 <div id="about" align="center">
 Hey there, it's Sarah! Glad to meet you!
 ⚙️ I’m a software engineer contributing to the frontend and backend of web applications.
-💫 ...On a mission, building phenomenal digital experiences that enhance the lives of others.
+💫 ...On a mission to build phenomenal digital experiences that enhance the lives of others.
 🔍 I’m deeply interested in blockchain and machine learning.
 ⚡️  And in my free time, I love to solve coding challenges.
 🧩 Other Fun Facts: I'm a professional pianist, occasional bassist, 3D modeler, & photographer.
