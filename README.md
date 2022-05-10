@@ -1,4 +1,7 @@
 <div align="center" id="badges">
+  <a href="https://www.sarahmelki.com" target="_blank">
+        <img src=https://img.shields.io/badge/website-blue?&style=for-the-badge&logo=googlechrome&logoColor=white alt="website badge" style="margin-bottom: 5px;" />
+    </a> 
   <a href="https://www.linkedin.com/in/sarah-melki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
