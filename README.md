@@ -20,7 +20,7 @@
 <div id="about" align="center">
 Hey there, it's Sarah! 
 ⚙️ I’m a software engineer contributing to the frontend and backend of web applications. 
-💫 I'm on a mission to build phenomenal digital experiences that enhance the lives of others. My background is in computer science, CG, animation, and digital media. 🔍 My current topics of interest are blockchain and machine learning.
+💫 I'm on a mission to build phenomenal digital experiences that enhance the lives of others. My background is in computer science, CG, and digital media. 🔍 My current topics of interest are blockchain and machine learning.
 ⚡️  In my free time, I love to solve coding challenges.
 💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
 Feel free to reach out --> sarahmelki.dev@gmail.com
