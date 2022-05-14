@@ -1,33 +1,33 @@
+<img align="center" src="https://github.com/SarahMelki/SarahMelki/blob/main/sm-profile-banner.png?raw=true" alt="sarah-melki" width="100%"/>
+
 <div align="center" id="badges">
   <a href="https://www.sarahmelki.com" target="_blank">
-        <img src=https://img.shields.io/badge/website-blue?&style=for-the-badge&logo=googlechrome&logoColor=white alt="website badge" style="margin-bottom: 5px;" />
+        <img src=https://img.shields.io/badge/website-2e4f7e?&style=for-the-badge&logo=googlechrome&logoColor=white alt="website badge" style="margin-bottom: 5px;" />
     </a> 
   <a href="https://www.linkedin.com/in/sarah-melki/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2e4f7e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/_SarahMelki">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-2e4f7e?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:sarahmelki.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-2e4f7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  
-  
+    
 </div>
-
-<h1 align="center">. . . .</h1>
-
 <div id="header" align="center" >
   <img src="https://media3.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e47ntxals2p2ym2p94zx3zaqzm97hgz2rrfh8yd3ien&rid=giphy.gif&ct=s" width="350" height="300"/>
 </div>
 
+<h1 align="center">. . . .</h1>
+
 <div id="about" align="center">
-Hey there, it's Sarah! 
+Hey there! 
 ⚙️ I’m a software engineer contributing to the frontend and backend of web applications. 
 💫 I'm on a mission to build phenomenal digital experiences that enhance the lives of others. My background is in computer science, CG, and digital media. 🔍 My current topics of interest are blockchain and machine learning.
 ⚡️  In my free time, I love to solve coding challenges.
 💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
-Feel free to reach out --> sarahmelki.dev@gmail.com
+Feel free to reach out!
 
 </div>
 
