@@ -11,7 +11,7 @@
   
 </div>
 
-<h1 align="center">. . .</h1>
+<h1 align="center">. . . .</h1>
 
 <div id="header" align="center" >
   <img src="https://media3.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e47ntxals2p2ym2p94zx3zaqzm97hgz2rrfh8yd3ien&rid=giphy.gif&ct=s" width="350" height="300"/>
