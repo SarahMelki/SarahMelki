@@ -73,11 +73,8 @@ Feel free to reach out!
 </div>
 </table>
 
-<h1 align="center">. . . .</h1>
 
 
-
-<hr></hr>
 
 <div id="languages" align="center">
 <br></br>
@@ -89,15 +86,15 @@ Feel free to reach out!
 <div id="language-icons">
   
   <p align="center">
-<img src="https://img.shields.io/badge/HTML5-2e4f7e?style=for-the-badge&logo=html5&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/CSS3-2e4f7e?style=for-the-badge&logo=css3&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/JavaScript-2e4f7e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=30>
-<img src="https://img.shields.io/badge/Node.js-2e4f7e?style=for-the-badge&logo=nodedotjs&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/React-2e4f7e?style=for-the-badge&logo=react&logoColor=61DAFB" height=30>
-<img src="https://img.shields.io/badge/Express.js-2e4f7e?style=for-the-badge&logo=express&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/MongoDB-2e4f7e?style=for-the-badge&logo=mongodb&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/jQuery-2e4f7e?style=for-the-badge&logo=jquery&logoColor=white" height=30>
-<img src="https://img.shields.io/badge/GIT-2e4f7e?style=for-the-badge&logo=git&logoColor=white" height=30>
+<img src="https://img.shields.io/badge/HTML5-2e4f7e?style=for-the-badge&logo=html5&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/CSS3-2e4f7e?style=for-the-badge&logo=css3&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/JavaScript-2e4f7e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=28>
+<img src="https://img.shields.io/badge/Node.js-2e4f7e?style=for-the-badge&logo=nodedotjs&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/React-2e4f7e?style=for-the-badge&logo=react&logoColor=61DAFB" height=28>
+<img src="https://img.shields.io/badge/Express.js-2e4f7e?style=for-the-badge&logo=express&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/MongoDB-2e4f7e?style=for-the-badge&logo=mongodb&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/jQuery-2e4f7e?style=for-the-badge&logo=jquery&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/GIT-2e4f7e?style=for-the-badge&logo=git&logoColor=white" height=28>
 </p>
   
 <p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  </a>  </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
