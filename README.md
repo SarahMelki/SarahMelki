@@ -73,8 +73,20 @@ Feel free to reach out!
 </div>
 </table>
 
-
-
+<br></br>
+<h2 align="center">📊 Stats</h2>
+  
+<!-- <div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sarahmelki&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=2e4f7e&sideNums=DD2727&sideLabels=DD4236&background=FFFFFF00&currStreakNum=fa8b00">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sarahmelki&bg_color=FFFFFF00&hide_border=true&text_color=2e4f7e&title_color=fa8b00&include_all_commits=true&count_private=true">
+</table>
+</div> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=sarahmelki&bg_color=FFFFFF00&color=657b99&line=2e4f7e&point=657b99&hide_border=true&title_color=">
 
 <div id="languages" align="center">
 <br></br>
