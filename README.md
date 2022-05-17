@@ -50,7 +50,7 @@ Feel free to reach out!
 <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=2e4f7e"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - Created a custom color pokedex consuming the PokeAPI and using vanilla JavaScript.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Created a custom color pokedex using the PokeAPI and vanilla JavaScript.</p>
 </div>
 </td>
 <td width="50%">
