@@ -9,7 +9,7 @@ Hey there!
 Feel free to reach out!
 
 </div>
-<h1 align="center">. . . .</h1>
+<br></br>
 
 <div align="center" id="badges">
   <a href="https://www.sarahmelki.com" target="_blank">
