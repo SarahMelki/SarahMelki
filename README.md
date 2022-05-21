@@ -21,6 +21,7 @@ Feel free to reach out!
   <a href="https://twitter.com/_SarahMelki">
     <img src="https://img.shields.io/badge/Twitter-2e4f7e?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.codewars.com/users/SarahMelki"><img src="https://img.shields.io/badge/Codewars-2e4f7e?style=for-the-badge&logo=Codewars&logoColor=white"></a>
   <a href="mailto:sarahmelki.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-2e4f7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
