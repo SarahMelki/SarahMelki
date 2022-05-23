@@ -114,6 +114,7 @@ Feel free to reach out!
 <img src="https://img.shields.io/badge/GIT-2e4f7e?style=for-the-badge&logo=git&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Postman-2e4f7e?style=for-the-badge&logo=postman&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Heroku-2e4f7e?style=for-the-badge&logo=heroku&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/WordPress-2e4f7e?style=for-the-badge&logo=wordpress&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Blender-2e4f7e?style=for-the-badge&logo=blender&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Photoshop-2e4f7e?style=for-the-badge&logo=adobephotoshop&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/PremierePro-2e4f7e?style=for-the-badge&logo=adobepremierepro&logoColor=white" height=28>
