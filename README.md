@@ -93,9 +93,12 @@ Feel free to reach out!
 <br></br>
   
   <h2 align="center">:hammer_and_wrench: Languages and Tools : </h2>
-  <br></br>
+<!--   <br></br> -->
 </div>
-
+<div id="language-description" align="center">
+My foundational programming background is in C++, and my current focus is on full stack web applications using JavaScript, Node, and React. I am always open to learning and adding more technologies to stay up-to-date in a fast-paced world! My present-day list of technologies includes but is not limited to:
+</div>
+<br></br>
 <div id="language-icons">
   
 <p align="center">
