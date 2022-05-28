@@ -130,6 +130,7 @@ My foundational programming background is in C++, and my current focus is on ful
 </p>
   
 </div>
+<br></br>
 
 <h2 align="center">🔗 Let's Connect</h2>
 <div align="center" id="badges">
