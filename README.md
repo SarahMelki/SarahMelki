@@ -2,13 +2,14 @@
 
 <div id="about" align="center">
 Hello, World! 
-⚙️ I'm on a mission to build phenomenal digital experiences that enhance the lives of others. My background is in computer science, CG, and digital media. 🔍 And I have a deep interest in learning more about the intricacies of the Blockchain.
-⚡️  In my free time, I love to solve coding challenges.
+⚙️ I'm on a mission to build phenomenal digital experiences that enhance the lives of others, and I'm always on the lookout for finding solutions to your problems. My background is in computer science, CG, and digital media. ⚡️ I also have a deep interest in learning more about the intricacies of the Blockchain.
+
 💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
-Feel free to reach out!
+  
+
+🔗 Feel free to reach out!
 
 </div>
-<br></br>
 
 <div align="center" id="badges">
   <a href="https://www.sarahmelki.com" target="_blank">
@@ -26,9 +27,6 @@ Feel free to reach out!
   </a>
     
 </div>
-
-<div id="languages" align="center">
-<br></br>
   
 
 
@@ -95,7 +93,7 @@ Feel free to reach out!
 <img src="https://activity-graph.herokuapp.com/graph?username=sarahmelki&bg_color=FFFFFF00&color=657b99&line=2e4f7e&point=657b99&hide_border=true&title_color=">
 
 <br></br>
-
+<div id="languages" align="center">
   <h2 align="center">:hammer_and_wrench: Languages and Tools : </h2>
 <!--   <br></br> -->
 </div>
@@ -132,7 +130,7 @@ Feel free to reach out!
 </div>
 <br></br>
 
-<h2 align="center">🔗 Let's Connect</h2>
+<!-- <h2 align="center">🔗 Let's Connect</h2>
 <div align="center" id="badges">
   <a href="https://www.sarahmelki.com" target="_blank">
         <img src=https://img.shields.io/badge/website-2e4f7e?&style=for-the-badge&logo=googlechrome&logoColor=white alt="website badge" style="margin-bottom: 5px;" />
@@ -148,7 +146,7 @@ Feel free to reach out!
     <img src="https://img.shields.io/badge/Gmail-2e4f7e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     
-</div>
+</div> -->
 
 <!---
 SarahMelki/SarahMelki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
