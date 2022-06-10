@@ -4,7 +4,7 @@
 Hello, World! 
 ⚙️ I'm on a mission to build phenomenal digital experiences that enhance the lives of others, and I'm always on the lookout for solutions to your problems. My background is in computer science, CG, and digital media. Though my foundational programming context is in C++, my current focus is on fullstack web applications using JavaScript, Node, and React. 
   
-  ⚡️ I also have a deep interest in learning more about the intricacies of the Blockchain.
+  ⚡️ I enjoy reading about quantum computing and have a deep interest in learning more about the intricacies of the Blockchain. 
 
   💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
   
