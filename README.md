@@ -1,11 +1,14 @@
 <img align="center" src="https://github.com/SarahMelki/SarahMelki/blob/main/sm-profile-banner.png?raw=true" alt="sarah-melki" width="100%"/>
 
 <div id="about" align="center">
-Hello, World! 
-⚙️ I'm on a mission to build phenomenal digital experiences that enhance the lives of others, and I'm always on the lookout for solutions to your problems. My background is in computer science, CG, and digital media. With a foundational programming context in C++, my current focus is on fullstack web applications using JavaScript, Node, and React. 
-  
-  ⚡️ I enjoy reading about quantum computing and have a deep interest in learning about the intricacies of blockchain development. 
+⚙️ Hello, World! 
+I'm on a mission to build phenomenal digital experiences that enhance the lives of others, and I'm always on the lookout for solutions to your problems.
 
+ ⚡️ My background is in computer science, CG, and digital media. With a foundational programming context in C++, my current focus is on fullstack web applications using JavaScript, Node, and React. 
+  
+ 📚 I also enjoy reading about neurobiology and quantum computing, and I have a deep interest in learning about the intricacies of blockchain development. 
+When I'm not coding, I spend my time on culture and travel.
+  
   💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
   
 
