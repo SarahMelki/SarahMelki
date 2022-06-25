@@ -4,7 +4,7 @@
 ⚙️ Hello, World! 
 I'm on a mission to build phenomenal digital experiences, and I'm always on the lookout for solutions to your problems.
 <br></br>
- ⚡️ My background is in computer science, CG, and digital media. With a foundational programming context in C++, my current focus is on fullstack web applications using JavaScript, Node, and React. 
+ ⚡️ My background is in computer science, CG, and digital media. With a foundational programming context in C++, my current focus is on full-stack web applications using JavaScript, Node, and React. 
   <br></br>
  📚 I also enjoy reading about neurobiology and quantum computing and have a deep interest in learning about the intricacies of blockchain development. 
 When I'm not coding, I spend my time on culture and travel!
