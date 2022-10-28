@@ -95,8 +95,10 @@ When I'm not coding, I spend my time on culture and travel!
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sarahmelki&bg_color=FFFFFF00&hide_border=true&text_color=2e4f7e&title_color=fa8b00&include_all_commits=true&count_private=true">
 </table>
 </div> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=sarahmelki&bg_color=FFFFFF00&color=657b99&line=2e4f7e&point=657b99&hide_border=true&title_color=">
-
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=sarahmelki&bg_color=FFFFFF00&color=657b99&line=2e4f7e&point=657b99&hide_border=true&title_color="> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmelki&theme=vue-dark&hide_border=true&layout=compact&bg_color=2e4f7e)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarahmelki&theme=vue-dark&hide_border=true&background=2e4f7e)](https://git.io/streak-stats) 
 
 
 <br></br>
