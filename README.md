@@ -53,7 +53,7 @@ When I'm not coding, I spend my time on culture and travel!
 <br>
 <p>
 <a href="https://github.com/SarahMelki/Pokemon-Pokedex" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=46B888"/>
 </a>  
 <a href="https://mypokepokedex.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=00365E"/>
@@ -72,7 +72,7 @@ When I'm not coding, I spend my time on culture and travel!
 <br>
 <p>
 <a href="https://github.com/SarahMelki/VeganChecker" target="_blank">
-<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github&color=46B888"/>
 </a>  
 <a href="https://veganingredientchecker.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=00365E"/>
