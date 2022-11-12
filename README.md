@@ -4,10 +4,10 @@
 ⚙️ Hello, World! 
 I'm on a mission to build phenomenal digital experiences, and I'm always on the lookout for solutions to your problems.
 <br></br>
- ⚡️ My background is in computer science, CG, and digital media. With a foundational programming context in C++, my current focus is on full-stack web applications using JavaScript, Node, and React. 
+ ⚡️ My background is in computer science, CG, and digital media. The current focus of my projects is full-stack web applications and enterprise resource planning. 
   <br></br>
- 📚 I also enjoy reading about neurobiology and quantum computing and have a deep interest in learning about the intricacies of blockchain development. 
-When I'm not coding, I spend my time on culture and travel!
+ 📚 Some days, I get lost in my readings on nutrition sciences, quantum computing, and the intricacies of blockchain development. 
+Away from the screen, I spend my time in photography while exploring culture and travel!
   <br></br>
   💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
   <br></br>
@@ -115,6 +115,7 @@ When I'm not coding, I spend my time on culture and travel!
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-00365E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=28>
 <img src="https://img.shields.io/badge/Node.js-00365E?style=for-the-badge&logo=nodedotjs&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/EJS-00365E?style=for-the-badge&logo=ejs&logoColor=white" height=28> 
 <img src="https://img.shields.io/badge/React-00365E?style=for-the-badge&logo=react&logoColor=61DAFB" height=28>
 <img src="https://img.shields.io/badge/Express.js-00365E?style=for-the-badge&logo=express&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/MongoDB-00365E?style=for-the-badge&logo=mongodb&logoColor=white" height=28>
@@ -122,6 +123,8 @@ When I'm not coding, I spend my time on culture and travel!
 <img src="https://img.shields.io/badge/CSS3-00365E?style=for-the-badge&logo=css3&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/jQuery-00365E?style=for-the-badge&logo=jquery&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Bootstrap-00365E?style=for-the-badge&logo=bootstrap&logoColor=white" height=28>
+<img src="https://img.shields.io/badge/AL-00365E?style=for-the-badge&logo=al&logoColor=white" height=28> 
+<img src="https://img.shields.io/badge/MSD365BC-00365E?style=for-the-badge&logo=msd365bc&logoColor=white" height=28>  
 <img src="https://img.shields.io/badge/PostgreSQL-00365E?style=for-the-badge&logo=postgresql&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Typescript-00365E?style=for-the-badge&logo=typescript&logoColor=white" height=28>
 <img src="https://img.shields.io/badge/Python-00365E?style=for-the-badge&logo=python&logoColor=white" height=28>
