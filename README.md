@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/SarahMelki/SarahMelki/blob/main/sm-profile-banner.png?raw=true" alt="sarah-melki" width="100%"/>
+<img align="center" src="https://github.com/SarahMelki/SarahMelki/blob/main/GitHub-Cover-SM%20.png" alt="sarah-melki" width="100%"/>
 
 <div id="about" align="center">
 ⚙️ Hello, World! 
