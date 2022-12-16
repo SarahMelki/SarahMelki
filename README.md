@@ -98,7 +98,7 @@ Away from the screen, I spend my time in photography while exploring culture and
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmelki&theme=vue-dark&hide_border=true&layout=compact&bg_color=00365E)](https://github.com/anuraghazra/github-readme-stats)
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarahmelki&theme=vue-dark&hide_border=true&background=00365E)](https://git.io/streak-stats) 
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarahmelki&theme=vue-dark&hide_border=true&background=00365E)](https://git.io/streak-stats)  -->
 
 
 <br></br>
