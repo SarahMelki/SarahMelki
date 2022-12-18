@@ -4,10 +4,10 @@
 ⚙️ Hello, World! 
 I'm on a mission to build phenomenal digital experiences, and I'm always on the lookout for solutions to your problems.
 <br></br>
- ⚡️ My background is in computer science, CG, and digital media. The current focus of my projects is full-stack web applications and enterprise resource planning. 
+ ⚡️ My background is in computer science, CG, and digital media. The current scope is full-stack web applications, systems design, and enterprise resource planning. 
   <br></br>
  📚 Some days, I get lost in my readings on nutrition sciences, quantum computing, and the intricacies of blockchain development. 
-Away from the screen, I spend my time in photography while exploring culture and travel!
+Away code, I spend my time in photography while exploring culture and travel!
   <br></br>
   💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
   <br></br>
