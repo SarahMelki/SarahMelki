@@ -7,7 +7,7 @@ I'm on a mission to build phenomenal digital experiences, and I'm always on the 
  ⚡️ My background is in computer science, CG, and digital media. My current scope is full-stack web applications and systems design.
   <br></br>
  📚 Some days, I get lost in my readings on nutrition sciences, quantum computing, and the intricacies of blockchain development. 
-Away code, I spend my time in photography while exploring culture and travel!
+Away from code, I spend my time in photography while exploring culture and travel!
   <br></br>
   💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
   <br></br>
