@@ -4,7 +4,7 @@
 ⚙️ Hello, World! 
 I'm on a mission to build phenomenal digital experiences, and I'm always on the lookout for solutions to your problems.
 <br></br>
- ⚡️ My background is in computer science, CG, and digital media. My current scope is full-stack web applications and interactive digital media.
+ ⚡️ My background is in computer science, CG, and digital media. My current scope is full-stack web application and interactive media development.
   <br></br>
  📚 Away from code, I love to explore my other passions, from reading about nutrition sciences and quantum computing to indulging in photography and travel.
   <br></br>
