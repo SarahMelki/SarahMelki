@@ -6,7 +6,7 @@ I'm on a mission to build phenomenal digital experiences, and I'm always on the 
 <br></br>
  ⚡️ My background is in computer science, CG, and digital media. My current scope of work is in UI product design and development.
   <br></br>
- 📚 Away from code, I love to explore my other passions, from reading about nutrition sciences and quantum computing to indulging in photography and travel.
+ 📚 Away from design and code, I love to explore my other passions, from reading about nutrition sciences and quantum computing to indulging in photography and travel.
   <br></br>
   💎 Other Fun Facts: I'm a professional pianist, occasional bassist & 3D modeler.
   <br></br>
